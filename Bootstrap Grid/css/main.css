@@ -1,0 +1,24 @@
+.container{
+    background-color:brown;
+}
+
+.col-3{
+    background: url(http://www.evropa.nikopol.net/fon1/background_31.png);
+
+}
+.coL-3-TEST{
+    background: url(http://365psd.ru/images/backgrounds/bg-lightl-904.jpg);
+    padding-top: 30px;
+}
+.col-6{
+    background-color: white;
+
+}
+.col-12{
+    background: url(http://365psd.ru/images/backgrounds/bg-lightl-904.jpg);
+}
+
+.footer{
+    background: url(http://365psd.ru/images/backgrounds/bg-lightl-904.jpg);
+    color: brown;
+}
